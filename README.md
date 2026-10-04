@@ -5,4 +5,7 @@ The study then uses statistical tests, taking the SPC's communication to the pub
 The public sees each tornado day as independent, and their respective percentage as absolute.
 As this is the way the public treats it, it is important that the forecasts can still 'hold up' from these perspectives, as the public is much of what uses the SPC forecasts.
 
+It is important to mention that I am a high schooler independently creating this paper and have no affiliation with any of the parties mentioned. 
+This paper is also experimental and does not make any conclusive statements about the overall accuracy of the SPC, which is an organization I am greatly fond of. 
+
 The full paper can be seen in the uploaded PDF. 
