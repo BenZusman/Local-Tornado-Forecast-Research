@@ -1,4 +1,4 @@
-This is a paper that uses simple statistical tests to analyze SPC forecasts from the public's perspective
+This is a paper that uses simple statistical tests to analyze SPC forecasts from the public's perspective.
 Usually, complex analysis is done to determine SPC forecast accuracy; however, this uses specific scientific ideas that are not clearly communicated to the public (as what is given to the public is a simplified version).
 This study looks at over 4000 tornado forecasts, from a local perspective (meaning one town's perspective, not local in the sense I live in the town)
 The study then uses statistical tests, taking the SPC's communication to the public very literally. 
